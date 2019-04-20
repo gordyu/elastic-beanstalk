@@ -1,0 +1,20 @@
+{
+    "name": "elastic-beanstalk",
+    "description": "Basic Node App",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "bcrypt-nodejs": "0.0.3",
+        "express": "^4.16.4",
+        "express-fileupload": "^1.1.4",
+        "image-size": "^0.7.3",
+        "jwt-simple": "^0.5.6",
+        "mongoose": "^5.5.2",
+        "nodemailer": "^6.1.0",
+        "passport": "^0.4.0",
+        "passport-jwt": "^4.0.0",
+        "passport-local": "^1.0.0",
+        "sharp": "^0.22.0",
+        "zipcodes": "^8.0.0"
+    }
+}
