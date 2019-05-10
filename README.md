@@ -3,4 +3,5 @@ The ```.npmrc``` file fixes permission issues for the ```NPM sharp``` package an
 
 Running this code locally requires that you add a ```.env``` file at the root of your project with a ```DB``` environment variable pointing to your local MongoDB instance.  Example: ```DB=mongodb://localhost:27017/notes?retryWrites=true```  
   
-Correlating YouTube Video (https://youtu.be/GbudiCx_t9M)
+
+[![AWS Elastic Beanstalk](https://i9.ytimg.com/vi/GbudiCx_t9M/mqdefault.jpg?sqp=CPCE2OYF&rs=AOn4CLAbkuR8U_Sl7TRXTGmW0HMNGv6B4Q&time=1557529249777)](http://www.youtube.com/watch?v=GbudiCx_t9M)
