@@ -1,4 +1,4 @@
-# Deploy to AWS Elastic Beanstalk using Node.js and MongoDB
+# Deploy to AWS Elastic Beanstalk with Node.js & MongoDB
 
 This project is for use on AWS Elastic Beanstalk.  
 The ```.npmrc``` file fixes permission issues for the ```NPM sharp``` package and other packages which require elevated permissions, setting the 'unsafe-perm' flag to ```true```. Several packages are included in the ```package.json``` file which are not being used in this project to demonstrate the deployment works for image upload/resizing packages.     
